@@ -2,7 +2,7 @@
 Gut virome characterization, strain sharing, and clinical associations in the **2000HIV study**.
 
 <p align="center">
-  <img src="images/Overview LLNEXT.png" alt="Overview of pregnancy and early-life gut virome analysis workflow" width="900">
+  <img src="images/Overview_HGVC.png" alt="Overview of 2000HIV gut virome analysis workflow" width="900">
 </p>
 
 <table align="center">
