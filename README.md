@@ -76,7 +76,7 @@ Viral sequences were identified from assembled contigs generated using **metaSPA
 
 ### Virus Characterization and Strain-Level Profiling
 
-- **Taxonomic classification:** Viral taxonomy was assigned using a hierarchical approach combining [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/), [geNomad](https://github.com/apcamargo/genomad), and [VITAP](https://github.com/omics-lab/VITAP).
+- **Taxonomic classification:** Viral taxonomy was assigned using a hierarchical approach combining [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/), [geNomad](https://github.com/apcamargo/genomad), and [VITAP](https://github.com/DrKaiyangZheng/VITAP).
 - **Lifestyle prediction:** Bacteriophage lifestyles were predicted using [BACPHLIP](https://github.com/adamhockenberry/bacphlip).
 - **Host prediction:** [iPHoP](https://bitbucket.org/srouxjgi/iphop/) was used to predict viral hosts, with host assignments summarized at the genus level.
 - **Strain-level viral profiling:** [inStrain](https://github.com/MrOlm/inStrain) was used for strain-level comparisons, with strain sharing defined as population ANI (popANI) > 99.999%. Strain-sharing patterns were assessed in relation to sexual behaviour, including the number of sexual partners and receptive anal sex, and HIV phylogenetic clusters.
@@ -86,7 +86,7 @@ Viral sequences were identified from assembled contigs generated using **metaSPA
 ### *Caudoviricetes* and HIV Phylogenetic Analysis
 
 - ***Caudoviricetes* phylogeny:** A maximum-likelihood phylogeny was reconstructed from concatenated alignments of conserved viral marker proteins, including the large terminase subunit, major capsid protein, and portal protein. Marker detection and alignment were performed using [HMMER](http://hmmer.org/), [MUSCLE](https://github.com/rcedgar/muscle), and [ClipKIT](https://github.com/JLSteenwyk/ClipKIT), followed by tree inference with [FastTree](http://www.microbesonline.org/fasttree/).
-- **HIV phylogeny:** HIV *pol* sequences were amplified from CD4⁺ T-cell genomic DNA and sequenced using Sanger sequencing. Consensus sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/), and maximum-likelihood phylogenies were reconstructed using [IQ-TREE](https://www.iqtree.org/), with branch support assessed using 1,000 ultrafast bootstrap replicates and the approximate likelihood-ratio test. Putative transmission clusters were identified using [ClusterPicker](https://github.com/jeetsukumaran/cluster-picker).
+- **HIV phylogeny:** HIV *pol* sequences were amplified from CD4⁺ T-cell genomic DNA and sequenced using Sanger sequencing. Consensus sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/), and maximum-likelihood phylogenies were reconstructed using [IQ-TREE](https://www.iqtree.org/), with branch support assessed using 1,000 ultrafast bootstrap replicates and the approximate likelihood-ratio test. Putative transmission clusters were identified using [ClusterPicker](https://github.com/emmahodcroft/cluster-picker-and-cluster-matcher).
 
 ### Association and Mediation Analyses
 
