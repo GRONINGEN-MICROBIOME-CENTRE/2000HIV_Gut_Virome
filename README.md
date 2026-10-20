@@ -56,8 +56,7 @@ Here, we present a comprehensive characterization of the **gut DNA virome in peo
 
 This study is based on the 2000HIV cohort, a longitudinal study of PWH recruited between 2019 and 2021 from four HIV treatment centres and followed using extensive multi-omics profiling, immunological assays, and clinical assessments.
 
-- **Original cohort description**:
-Vos W, Groenendijk A, et al. The 2000HIV study: Design, multi-omics methods and participant characteristics. Frontiers in Immunology, 2022.
+- **Original cohort description:** Vos W, Groenendijk A, et al. [The 2000HIV study: Design, multi-omics methods and participant characteristics](https://doi.org/10.3389/fimmu.2022.982746). *Frontiers in Immunology*, 2022.
 
 ---
 
