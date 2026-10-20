@@ -76,23 +76,22 @@ Viral sequences were identified from assembled contigs generated using **metaSPA
 
 ### Virus Characterization and Strain-Level Profiling
 
-- **Taxonomic classification:** Viral taxonomy was assigned using a hierarchical approach combining RefSeq annotations, **geNomad**, and **VITAP**.
-- **Lifestyle prediction:** Bacteriophage lifestyles were predicted using **BACPHLIP**.
-- **Host prediction:** **iPHoP** was used to predict viral hosts, with host assignments summarized at the genus level.
-- **Strain-level viral profiling:** **inStrain** was used for strain-level comparisons, with strain sharing defined as population ANI (popANI) > 99.999%. Strain-sharing patterns were assessed in relation to sexual behaviour, including the number of sexual partners and receptive anal sex, and HIV phylogenetic clusters.
+- **Taxonomic classification:** Viral taxonomy was assigned using a hierarchical approach combining [RefSeq](https://www.ncbi.nlm.nih.gov/refseq/), [geNomad](https://github.com/apcamargo/genomad), and [VITAP](https://github.com/omics-lab/VITAP).
+- **Lifestyle prediction:** Bacteriophage lifestyles were predicted using [BACPHLIP](https://github.com/adamhockenberry/bacphlip).
+- **Host prediction:** [iPHoP](https://bitbucket.org/srouxjgi/iphop/) was used to predict viral hosts, with host assignments summarized at the genus level.
+- **Strain-level viral profiling:** [inStrain](https://github.com/MrOlm/inStrain) was used for strain-level comparisons, with strain sharing defined as population ANI (popANI) > 99.999%. Strain-sharing patterns were assessed in relation to sexual behaviour, including the number of sexual partners and receptive anal sex, and HIV phylogenetic clusters.
 
 ---
 
 ### *Caudoviricetes* and HIV Phylogenetic Analysis
 
-- ***Caudoviricetes* phylogeny:** A maximum-likelihood phylogeny was reconstructed from concatenated alignments of conserved viral marker proteins, including the large terminase subunit, major capsid protein, and portal protein. Marker detection and alignment were performed using **HMMER**, **MUSCLE**, and **ClipKIT**, followed by tree inference with **FastTree**.
-- **HIV phylogeny:** HIV *pol* sequences were amplified from CD4⁺ T-cell genomic DNA and sequenced using Sanger sequencing. Consensus sequences were aligned using **MAFFT**, and maximum-likelihood phylogenies were reconstructed using **IQ-TREE**, with branch support assessed using 1,000 ultrafast bootstrap replicates and the approximate likelihood-ratio test. Putative transmission clusters were identified using **ClusterPicker**.
+- ***Caudoviricetes* phylogeny:** A maximum-likelihood phylogeny was reconstructed from concatenated alignments of conserved viral marker proteins, including the large terminase subunit, major capsid protein, and portal protein. Marker detection and alignment were performed using [HMMER](http://hmmer.org/), [MUSCLE](https://github.com/rcedgar/muscle), and [ClipKIT](https://github.com/JLSteenwyk/ClipKIT), followed by tree inference with [FastTree](http://www.microbesonline.org/fasttree/).
+- **HIV phylogeny:** HIV *pol* sequences were amplified from CD4⁺ T-cell genomic DNA and sequenced using Sanger sequencing. Consensus sequences were aligned using [MAFFT](https://mafft.cbrc.jp/alignment/software/), and maximum-likelihood phylogenies were reconstructed using [IQ-TREE](https://www.iqtree.org/), with branch support assessed using 1,000 ultrafast bootstrap replicates and the approximate likelihood-ratio test. Putative transmission clusters were identified using [ClusterPicker](https://github.com/jeetsukumaran/cluster-picker).
 
 ### Association and Mediation Analyses
 
-- **Association analysis:** Associations between gut viral profiles and host phenotypes were assessed using **MaAsLin3**, modelling viral abundance and prevalence separately and adjusting for relevant host and technical covariates. Models were additionally adjusted for the abundance of the predicted bacterial host genus where available. 
-- **Mediation analysis:** Causal mediation analysis was performed using the R package **mediation** to assess whether cytokine levels mediated associations between host phenotypes and phage presence. Models accounted for relevant covariates, including predicted bacterial host abundance. Mediation effects were estimated using 1,000 quasi-Bayesian simulations.
-
+- **Association analysis:** Associations between gut viral profiles and host phenotypes were assessed using [MaAsLin3](https://github.com/biobakery/Maaslin3), modelling viral abundance and prevalence separately and adjusting for relevant host and technical covariates. Models were additionally adjusted for the abundance of the predicted bacterial host genus where available.
+- **Mediation analysis:** Causal mediation analysis was performed using the R package [mediation](https://cran.r-project.org/package=mediation) to assess whether cytokine levels mediated associations between host phenotypes and phage presence. Models accounted for relevant covariates, including predicted bacterial host abundance. Mediation effects were estimated using 1,000 quasi-Bayesian simulations.
 ---
 
 ## Data Availability
@@ -150,7 +149,7 @@ If you use this resource in your research, please cite both the associated publi
 
 ### Data resource
 
-> Fernández Pato, A. (2026). **HIV gut viral catalog (HGVC)(v1.0)** [Data set]. Zenodo.  
+> Fernández Pato, A. (2026). **HIV Gut Viral Catalog (HGVC)(v1.0)** [Data set]. Zenodo.  
 > [https://doi.org/10.5281/zenodo.18981021](https://doi.org/10.5281/zenodo.18981021)
 
 ---
