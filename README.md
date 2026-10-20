@@ -1,4 +1,4 @@
-# 2000HIV Gut Virome
+# Gut virome alterations in people living with HIV associate with host phenotypes and immune function
 Gut virome characterization, strain sharing, and clinical associations in the **2000HIV study**.
 
 <p align="center">
