@@ -28,8 +28,8 @@ Gut virome characterization, strain sharing, and clinical associations in the **
 ## Overview
 Here, we present a comprehensive characterization of the **gut DNA virome in people with HIV (PWH)**, investigating its composition, strain sharing, and associations with behavioural, immunological, and clinical features in the 2000HIV study.
 
-- 🧬 **Large-scale virome profiling:** We analyzed faecal shotgun metagenomes from 1,661 participants in the 2000HIV cohort, generating a comprehensive viral catalog that substantially expands known gut viral diversity in PWH. The catalog is available through the [Human Gut Viral Catalog (HGVC)](https://fulab.web.rug.nl/HGVC/).
-
+- 🧬 **Large-scale virome profiling:** We analyzed faecal shotgun metagenomes from 1,661 participants in the 2000HIV cohort, generating the [Human Gut Viral Catalog (HGVC)](https://fulab.web.rug.nl/HGVC/), which substantially expands known gut viral diversity in PWH.
+  
 - 🔗 **Sexual behaviour and viral sharing:** Men who have sex with men (MSM) showed increased viral diversity and a higher *Prevotella*/*Bacteroides* phage ratio. Viral strain sharing increased with the number of sexual partners and receptive anal sex, but did not mirror HIV phylogenetic relationships.
 
 - 🛡️ **Immunological status and HIV history:** Specific viral populations were associated with immunological status, duration of HIV infection, and markers of viral control and persistence, including HIV controller status and HIV reservoir size.
