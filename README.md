@@ -157,7 +157,9 @@ If you use this resource in your research, please cite both the associated publi
 
 ## Contact
 
-For questions regarding the analysis workflow or datasets, please feel free to [open an issue](https://github.com/GRONINGEN-MICROBIOME-CENTRE/2000HIV_Gut_Virome/issues) or contact: **Asier Fernández-Pato**  
+For questions regarding the analysis workflow or datasets, please feel free to [open an issue](https://github.com/GRONINGEN-MICROBIOME-CENTRE/2000HIV_Gut_Virome/issues) or contact: 
+
+**Asier Fernández-Pato**  
 University Medical Center Groningen  
 📧 [a.fernandez.pato@umcg.nl](mailto:a.fernandez.pato@umcg.nl)
 
