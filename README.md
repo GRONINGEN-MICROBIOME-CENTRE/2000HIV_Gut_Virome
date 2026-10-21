@@ -100,7 +100,7 @@ The HIV gut viral catalog (HGVC), associated metadata, and viral abundance table
 | File | Description | Link |
 |------|-------------|------|
 | `HGVC.fa.gz` | HGVC vOTU representative viral genomes (n=23,996) | [Download](https://zenodo.org/records/23530788/files/HGVC.fa.gz?download=1) |
-| `HGVC_metadata.tsv` | Metadata for all HGVC species-level vOTUs | [Download]([https://doi.org/10.5281/zenodo.23530788/files/HGVC_metadata.tsv?download=1](https://zenodo.org/records/23530788/files/HGVC.fa.gz?download=1)) |
+| `HGVC_metadata.tsv` | Metadata for all HGVC species-level vOTUs | [Download]([https://doi.org/10.5281/zenodo.23530788/files/HGVC_metadata.tsv?download=1) |
 | `HGVC_only_all_genomes.fa.gz` | Gut viral genomes identified from samples in the 2000HIV study after deduplication (excluding external DBs) (n=60,538) | [Download](https://doi.org/10.5281/zenodo.23530788/files/HGVC_only_all_genomes.fa.gz?download=1) |
 
 The datasets provide the inputs required to run the downstream analysis scripts in `scripts/F_Statistical_Downstream_analyses/`
