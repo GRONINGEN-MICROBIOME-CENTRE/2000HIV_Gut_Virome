@@ -147,7 +147,7 @@ If you use this resource in your research, please cite both the associated publi
 
 ### Data resource
 
-> Fernández Pato, A. (2026). **HIV Gut Viral Catalog (HGVC)(v1.0)** [Data set]. Zenodo.  
+> Fernández Pato, A & Peng, H. (2026). **HIV Gut Viral Catalog (HGVC)(v1.0)** [Data set]. Zenodo.  
 > [https://doi.org/10.5281/zenodo.18981021](https://doi.org/10.5281/zenodo.18981021)
 
 ---
