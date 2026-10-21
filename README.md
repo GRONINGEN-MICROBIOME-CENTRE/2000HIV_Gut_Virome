@@ -130,8 +130,6 @@ scripts/
 └── F_Statistical_Downstream_analyses/ # Statistical analyses, association testing, mediation and figure generation
 ```
 
-
-```
 ---
 
 ## Citation
