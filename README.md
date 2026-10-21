@@ -112,23 +112,24 @@ All scripts used in this project can be found within scripts and are organized a
 ```text
 scripts/
 ├── A_Virus_Identification/
-│   ├── Virus_detection/                  # geNomad
-│   └── Contamination_quality_check/      # Quality control
+│   ├── Contamination_quality_check/   # Quality control and contamination checks
+│   └── Virus_detection/               # Viral sequence identification using geNomad
 │
-├── B_Dereplication/                      # BLAST DB generation and ANI-based dereplication (aniclust.py, anicalc.py)
+├── B_Dereplication/                   # Viral genome dereplication
 │
-├── C_Abundance_estimation/               # Viral abundance estimation (read mapping)
+├── C_Abundance_estimation/            # Viral abundance estimation through read mapping
 │
 ├── D_Virus_Characterization/
-│   ├── Genome_quality/                   # Viral genome completeness estimation
-│   ├── Taxonomy/                         # Viral taxonomy (geNomad, ViTAP)
-│   └── Host_and_lifestyle_prediction/    # Host prediction (iPHoP) and lifestyle (BACPHLIP)
+│   ├── Genome_annotation/             # Viral genome annotation
+│   ├── Host_and_lifestyle_prediction/ # Host prediction (iPHoP) and lifestyle prediction (BACPHLIP)
+│   ├── Phylogeny/                     # Viral phylogenetic analyses
+│   └── Taxonomy/                      # Viral taxonomy (geNomad, VITAP)
 │
-├── E_Strain_sharing/
-│   ├── Strain_level_profiling/            # Strain-level viral profiling (inStrain) 
-│   └── X
+├── E_Strain_sharing/                  # Strain-level viral profiling and sharing analyses using inStrain
 │
-└── F_Downstream_scripts/                   # Statistical analyses and figure generation
+└── F_Statistical_Downstream_analyses/ # Statistical analyses, association testing, mediation and figure generation
+```
+
 
 ```
 ---
