@@ -17,7 +17,7 @@ Gut virome characterization, strain sharing, and clinical associations in the **
 
 <td align="center" valign="top" style="padding-left:40px;">
 <div style="margin-bottom:6px;"><b>Viral catalogs</b></div>
-<a href="https://doi.org/10.5281/zenodo.18981021">
+<a href="https://doi.org/10.5281/zenodo.23530788">
 <img src="images/zenodo_logo.png" height="45">
 </a>
 </td>
@@ -95,7 +95,7 @@ Viral sequences were identified from assembled contigs generated using **metaSPA
 
 ## Data Availability
 
-The HIV gut viral catalog (HGVC), associated metadata, and viral abundance table are available via [**Zenodo**](https://doi.org/10.5281/zenodo.18981021):
+The HIV gut viral catalog (HGVC), associated metadata, and viral abundance table are available via [**Zenodo**](https://doi.org/10.5281/zenodo.23530788):
 
 | File | Description | Link |
 |------|-------------|------|
@@ -148,7 +148,9 @@ If you use this resource in your research, please cite both the associated publi
 ### Data resource
 
 > Fernández Pato, A & Peng, H. (2026). **HIV Gut Viral Catalog (HGVC)(v1.0)** [Data set]. Zenodo.  
-> [https://doi.org/10.5281/zenodo.18981021](https://doi.org/10.5281/zenodo.18981021)
+> [https://doi.org/10.5281/zenodo.23530788](https://doi.org/10.5281/zenodo.23530788)
+>
+> The catalog is also available through the [HGVC website](https://fulab.web.rug.nl/HGVC/).
 
 ---
 
