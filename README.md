@@ -139,8 +139,8 @@ If you use this resource in your research, please cite both the associated publi
 ### Publication
 
 > **Gut virome alterations in people living with HIV associate with host phenotypes and immune function**  
-> Asier Fernández-Pato*, Haoran Peng*, Ángela Del Castillo-Izquierdo, Victoria Rios-Vazquez, Kavita Mehta, Rob J. W. Arts, Jéssica C. dos Santos, Mareva Delporte, Janneke E. Stalenhoef, Casper Rokx, Marvin A. H. Berrevoets, Leo A. B. Joosten, Mihai G. Netea, Alexander Kurilshikov, Linos Vandekerckhove, Andre J. A. M. van der Ven†, Alexandra Zhernakova† & Jingyuan Fu†
-> bioRxiv (2026). To be added.
+> Asier Fernández-Pato*, Haoran Peng*, Ángela Del Castillo-Izquierdo, Victoria Rios-Vazquez, Kavita Mehta, Twan Otten, Rob J. W. Arts, Jéssica C. dos Santos, Mareva Delporte, Janneke E. Stalenhoef, Casper Rokx, Marvin A. H. Berrevoets, Leo A. B. Joosten, Mihai G. Netea, Alexander Kurilshikov, Linos Vandekerckhove, Andre J. A. M. van der Ven†, Alexandra Zhernakova† & Jingyuan Fu†
+> Under Review (2026). To be added.
 
 ---
 
